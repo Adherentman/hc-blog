@@ -10,7 +10,7 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          你好呀, 我是 <GradientText>颢诚</GradientText> 👋
         </>
       }
       description={
@@ -18,7 +18,7 @@ const Hero = () => (
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
           <a className="text-cyan-400 hover:underline" href="/">
             malesuada
-          </a>{' '}
+          </a>
           nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
           <a className="text-cyan-400 hover:underline" href="/">
             consectetur
